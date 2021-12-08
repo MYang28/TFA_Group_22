@@ -6,5 +6,7 @@
    - Your group name and section
    Group 22 Section 002
    - A list containing the UNI for each member on the team
-   [Matthew Yang: 'mhy2116'
+   [
+      Matthew Yang: 'mhy2116',
+      Neerbhaya J B Rana : 'nsj2117'
    ]
