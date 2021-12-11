@@ -1,10 +1,10 @@
 # TFA_Group22
    Group Project for Call Analysis
    
-   - Your group name and section
-   Group 22 Section 002
-   - A list containing the UNI for each member on the team
-   [
+   - Your group name and section:
+      - Group 22 Section 002
+   - A list containing the UNI for each member on the team:
+      - [
       Matthew Yang: 'mhy2116',
       Neerbhaya J B Rana : 'nsj2117'
    ]
@@ -18,4 +18,4 @@
       - Illegal Parking
          - In the second part of the project, the fraction of illegal parking out of all incidents was calculated for both all zip codes and the 10025 zip code for calls to 311. 
 
-         - After calculating the fractions for both zip codes, it was found that the percentage of illegal parking out of all incidents for all zip codes was 7.4873 and 3.7754 for illegal parking in 10025 zip code   
+         - After calculating the fractions for both zip codes, it was found that the percentage of illegal parking out of all incidents for all zip codes was 7.4873% and 3.7754% for illegal parking in 10025 zip code.   
